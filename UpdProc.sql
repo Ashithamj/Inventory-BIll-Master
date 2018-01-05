@@ -2,7 +2,11 @@ USE letter;
 
 DELIMITER $$
 
+<<<<<<< HEAD
 -- sdfsdfsdfsg
+=======
+-- commenting
+>>>>>>> 8428a2fcc29f9d2d8c5e0de8032e641569be0798
 
 DROP PROCEDURE IF EXISTS ROUTINE_DOWNLOAD_1$$
 
