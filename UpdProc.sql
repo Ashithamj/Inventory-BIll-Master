@@ -1,3 +1,5 @@
+-- testing merge
+
 USE letter;
 
 DELIMITER $$
